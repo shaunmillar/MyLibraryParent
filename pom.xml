@@ -14,11 +14,9 @@
         <java.version>17</java.version>
     </properties>
 
-	<!--
     <modules>
-		<module>MyLibrary-Project</module>
-        <module>MyLibrary</module>
+		<module>MyLibraryProject</module>
+		<module>MyLibrary</module>
     </modules>
-    -->
 
 </project>
